@@ -1,4 +1,6 @@
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/rsksmart/Demo-FrontendInteractionSmartContract/badge)](https://scorecard.dev/viewer/?uri=github.com/rsksmart/Demo-FrontendInteractionSmartContract)
+[![CodeQL](https://github.com/rsksmart/Demo-FrontendInteractionSmartContract/workflows/CodeQL/badge.svg)](https://github.com/rsksmart/Demo-FrontendInteractionSmartContract/actions?query=workflow%3ACodeQL)
 # DApp Interaction with Smart Contract - RainbowKit & Next.js
 
 This project demonstrates the integration of a decentralized application (DApp) frontend with a smart contract deployed on the Rootstock (RSK) testnet. The frontend is built using Next.js and utilizes **RainbowKit** for wallet management, allowing seamless interaction between the user and the smart contract.
